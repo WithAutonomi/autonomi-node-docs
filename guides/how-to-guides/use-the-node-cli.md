@@ -147,11 +147,19 @@ ant node stop --service-name node1
 {% step %}
 ### Reset everything if you need a clean start
 
-If you need to remove all node data and start again from scratch, run:
+First stop your nodes:
+
+```bash
+ant node stop
+```
+
+Then reset everything:
 
 ```bash
 ant node reset --force
 ```
+
+The reset command will not run while nodes are still running.
 
 This removes your node data, logs, and local node registry, so only use it if you really want to start over.
 {% endstep %}
@@ -167,3 +175,41 @@ You are up and running, and contributing to the Autonomi Network from the Comman
 
 - If you install `ant` using the commands above, you should not need to enter bootstrap peers manually for normal live-network use.
 - When you add nodes, the CLI will show you where each node's data and logs are being stored.
+
+## Other useful commands
+
+If you want to stop the background daemon itself, first stop your nodes:
+
+```bash
+ant node stop
+ant node daemon stop
+```
+
+If you want to check the daemon again later:
+
+```bash
+ant node daemon status
+```
+
+If you want to update the `ant` CLI itself:
+
+```bash
+ant update
+```
+
+## Advanced options
+
+When adding nodes, there are a few extra options you may find useful:
+
+- `--metrics-port` to set metrics ports
+- `--network-id` to target a specific network
+- `--bootstrap` to provide bootstrap peers manually
+- `--env` to pass environment variables to the node
+
+For a fuller list of commands and options, run:
+
+```bash
+ant node --help
+ant node add --help
+ant node daemon --help
+```
