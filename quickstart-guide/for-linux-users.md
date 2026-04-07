@@ -11,7 +11,7 @@ metaLinks:
 {% step %}
 ### Download the Autonomi App
 
-[Linux x86-64](https://downloads.autonomi.com/launchpad/linux-x64) (Ubuntu 24.04+ recommended)
+[Linux x86-64](https://downloads.autonomi.com/autonomi-app/linux) (Ubuntu 24.04+ recommended)
 {% endstep %}
 
 {% step %}

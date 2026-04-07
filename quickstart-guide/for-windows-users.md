@@ -11,7 +11,7 @@ metaLinks:
 {% step %}
 ### Download the Autonomi App
 
-[Windows](https://downloads.autonomi.com/launchpad/windows) (Windows 10+)
+[Windows](https://downloads.autonomi.com/autonomi-app/windows) (Windows 10+)
 {% endstep %}
 
 {% step %}

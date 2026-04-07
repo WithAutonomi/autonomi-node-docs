@@ -10,19 +10,17 @@ The easiest way to contribute your spare capacity to the Autonomi Network is wit
 
 ### Download the Autonomi App:
 
-[Windows](https://downloads.autonomi.com/launchpad/windows) (Windows 10+ recommended)
+[Windows](https://downloads.autonomi.com/autonomi-app/windows) (Windows 10+ recommended)
 
-[Mac](https://downloads.autonomi.com/launchpad/mac) (Apple Silicon)
+[Mac](https://downloads.autonomi.com/autonomi-app/mac) (Apple Silicon)
 
-[Mac](https://downloads.autonomi.com/launchpad/mac-intel) (Intel)
+[Mac](https://downloads.autonomi.com/autonomi-app/mac-intel) (Intel)
 
-[Linux x86-64](https://downloads.autonomi.com/launchpad/linux-x64) (Ubuntu 24.04+ recommended)
+[Linux x86-64](https://downloads.autonomi.com/autonomi-app/linux) (App Image) (Ubuntu 24.04+ recommended)
 
-[Linux ARM](https://downloads.autonomi.com/launchpad/linux-arm)
+[Linux x86-64](https://downloads.autonomi.com/autonomi-app/linux-deb) (Deb) (Ubuntu 24.04+ recommended)
 
-[Linux ARM 64](https://downloads.autonomi.com/launchpad/linux-arm64)
-
-[Linux ARM v7](https://downloads.autonomi.com/launchpad/linux-armv7)
+[Linux x86-64](https://downloads.autonomi.com/autonomi-app/linux-rpm) (Deb) (Ubuntu 24.04+ recommended)<br>
 
 ### **Using the CLI**
 

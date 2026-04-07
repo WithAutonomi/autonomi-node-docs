@@ -11,7 +11,7 @@ metaLinks:
 {% step %}
 ### Download the Autonomi App
 
-[Mac](https://downloads.autonomi.com/launchpad/mac) (Apple Silicon)
+[Mac](https://downloads.autonomi.com/autonomi-app/mac) (Apple Silicon)
 {% endstep %}
 
 {% step %}
