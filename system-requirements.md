@@ -16,7 +16,7 @@ But as a starting point, we’ve built the [Node Launchpad](downloads.md) to run
 
 * 4 core CPU: Intel, AMD or Apple&#x20;
 * 8 GB ram
-* At least 35 GB spare hard drive space
+* Spare hard drive space for the data your node will store
 * 8 Mbps Up/Down Internet service<br>
 
 ## Compatible Wallets

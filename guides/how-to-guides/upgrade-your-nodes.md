@@ -41,22 +41,12 @@ Start your nodes again by pressing **Ctrl + S**
 
 ## Upgrading using the CLI
 
-If you are a power user utilizing our [Node Manager](https://github.com/maidsafe/autonomi/tree/main/ant-node-manager) CLI tool and want to upgrade your nodes to the latest version, first make sure you have the latest version of the Node Manger with the command:
+If you are using the [Node CLI](use-the-node-cli.md), your nodes will update themselves automatically over time, so you do not need to manually reinstall the node binary for normal updates.
 
 ```bash
-antup update
+ant update
 ```
 
-Then, to begin upgrading your nodes, use the command:
+If you want to update the `ant` CLI itself, run the command above.
 
-```bash
-antctl upgrade --interval 60000
-```
-
-Using the `--interval 60000` argument will leave 60 seconds pause between upgrading each of your nodes. This is recommended for people running up to 50 nodes.&#x20;
-
-If you are running more than 50 nodes we'd recommend a longer interval of `90000` or more.
-
-{% hint style="warning" %}
-Once upgraded run the command **`antctl start --interval 60000`**&#x20;
-{% endhint %}
+If you are setting up nodes from the CLI for the first time, start with [Use the Node CLI](use-the-node-cli.md).

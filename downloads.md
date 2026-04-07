@@ -26,8 +26,4 @@ The easiest way to contribute your spare capacity to the Autonomi Beta Network i
 
 ### **For Power Users**
 
-If you are comfortable with Command Line Interfaces and want to run nodes on headless devices, or on more advanced setups such as virtual environments or remote servers, starting and managing many nodes at once, then try our [antctl](https://github.com/maidsafe/autonomi/tree/main/ant-node-manager). <br>
-
-{% hint style="warning" %}
-The Node Launchpad is currently **limited to 50 nodes per device**. If you want to add more than 50 nodes on a single device (and you have the hardware to do it!) then you are probably a _Power User_ who would benefit from using the [antctl](https://github.com/maidsafe/autonomi/tree/main/ant-node-manager).
-{% endhint %}
+If you are comfortable with Command Line Interfaces and want to run nodes on headless devices, home servers, or more advanced setups such as virtual environments or remote machines, take a look at the [`ant` CLI](https://github.com/WithAutonomi/ant-client) and our [Use the Node CLI](guides/how-to-guides/use-the-node-cli.md) guide.

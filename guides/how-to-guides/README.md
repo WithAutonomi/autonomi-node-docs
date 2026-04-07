@@ -8,6 +8,10 @@ metaLinks:
 
 Find out how to…
 
+{% content-ref url="use-the-node-cli.md" %}
+[use-the-node-cli.md](use-the-node-cli.md)
+{% endcontent-ref %}
+
 {% content-ref url="upgrade-your-nodes.md" %}
 [upgrade-your-nodes.md](upgrade-your-nodes.md)
 {% endcontent-ref %}
