@@ -2,7 +2,7 @@
 
 This repository contains the markdown source for the Autonomi node documentation.
 
-- Published docs: [Autonomi Node Docs](https://app.gitbook.com/s/mHMagc6BlRPNTxTKcyjL/)
+- Published docs: [Autonomi Node Docs](https://docs.autonomi.com/node)
 - GitBook landing page source: [`index.md`](index.md)
 - Book navigation: [`SUMMARY.md`](SUMMARY.md)
 
