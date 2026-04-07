@@ -26,7 +26,7 @@ We are working on improvements and optimisations that should significantly impro
 
 If you are comfortable with getting your hands a bit more dirty and are happy to tinker other more short-term solutions might be to:
 
-* Use the Node Manager via the CLI which offers more configuration options which may get things going
+* Use the [Node CLI](../how-to-guides/use-the-node-cli.md), which offers more configuration options and may help get things going
 * Use an aftermarket router which allows advanced configuration, such as port forwarding.
 
 The best place to start is by asking our friendly community for help, either over on the [forum](https://forum.autonomi.community) or on [Discord](https://discord.gg/autonomi).

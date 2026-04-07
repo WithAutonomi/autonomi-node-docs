@@ -30,7 +30,7 @@ By running a node you'll be rewarded with Autonomi tokens. The number of tokens 
 
 Autonomi nodes are designed to work on everyday home devices. So even relatively modest-performance computers will happily run a node, or even many nodes at once.&#x20;
 
-Each node uses around 35 GB of storage space, as well as some CPU, memory, and of course Internet bandwidth. Our easy-to-use [Node Launchpad](../downloads.md) software is compatible with Windows, Mac and Linux.
+Each node uses some storage space, as well as some CPU, memory, and of course Internet bandwidth. Our easy-to-use [Node Launchpad](../downloads.md) software is compatible with Windows, Mac and Linux.
 
 Many people use typical home computers, or even RaspberryPis, to contribute to the Network.
 
@@ -42,7 +42,7 @@ There are options for more advanced users to utilise their headless computers, h
 
 <summary>How many nodes can I run?</summary>
 
-A typical home PC will be able to run several nodes at once, and you can start nodes on as many computers as you like. We'd recommend you start just a few nodes to begin, and then add more gradually as your computer and Internet connection capacity allows.
+A typical home PC will be able to run several nodes at once, and you can start nodes on as many computers as you like. We'd recommend you start with just a single node to begin, and then add more gradually as your computer and Internet connection capacity allows.
 
 </details>
 
@@ -68,7 +68,7 @@ Strictly speaking they are just fractions of a full token—18 decimal places—
 
 <summary>Do I have to use the Node Launchpad? Are there tools for advanced users?</summary>
 
-**No you don't need to use the launchpad.** If you are more comfortable using the Command Line, then there are CLI tools such as the [Node Manager](https://github.com/maidsafe/safe_network/blob/main/sn_node_manager/README.md) for power users.
+**No you don't need to use the launchpad.** If you are more comfortable using the Command Line, take a look at [Use the Node CLI](../guides/how-to-guides/use-the-node-cli.md).
 
 </details>
 

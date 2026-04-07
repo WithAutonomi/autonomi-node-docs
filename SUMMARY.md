@@ -12,9 +12,10 @@
 
 * [How To Guides](guides/how-to-guides/README.md)
   * [How to Join the Live Network](guides/how-to-guides/how-to-join-the-live-network.md)
+  * [Use the Node CLI](guides/how-to-guides/use-the-node-cli.md)
   * [Upgrade Your Nodes](guides/how-to-guides/upgrade-your-nodes.md)
   * [Reset Your Nodes](guides/how-to-guides/reset-your-nodes.md)
-  * [Add your Wallet Address using the Node Manager](guides/how-to-guides/add-your-wallet-address-using-the-node-manager.md)
+  * [Add your Wallet Address using the CLI](guides/how-to-guides/add-your-wallet-address-using-the-node-manager.md)
   * [View your Autonomi tokens with the Block Explorer](guides/how-to-guides/view-your-autonomi-tokens-with-the-block-explorer.md)
   * [Access the Logs](guides/how-to-guides/access-the-logs.md)
   * [Run as Admin by Default on Windows](guides/how-to-guides/run-as-admin-by-default-on-windows.md)

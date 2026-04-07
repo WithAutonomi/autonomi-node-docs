@@ -59,7 +59,7 @@ Then **Press Ctrl + G** to start some nodes.
 {% step %}
 **Press the up and down arrows** to choose the number of nodes you want to start, **then Press Enter** to start them. \
 \
-&#xNAN;_&#x57;e’d recommend you start just one or two to begin. Each will use 35GB of storage space, some memory, CPU, and some of your internet connection. Then add more as your resources allow._
+&#xNAN;_&#x57;e’d recommend you start with just a single node to begin, so you can get a feel for how your machine and connection handle it. Then add more as your resources allow._
 {% endstep %}
 
 {% step %}
