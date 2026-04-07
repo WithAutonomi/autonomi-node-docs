@@ -18,7 +18,7 @@ You only need your public wallet address for this. Do not paste your private key
 
 {% stepper %}
 {% step %}
-### Install the `ant` CLI
+#### Install the `ant` CLI
 
 On Mac and Linux:
 
@@ -42,7 +42,7 @@ If your terminal says `ant` cannot be found, close it and open a new one, then t
 {% endstep %}
 
 {% step %}
-### Start the background daemon
+#### Start the background daemon
 
 Run:
 
@@ -60,7 +60,7 @@ ant node daemon status
 {% endstep %}
 
 {% step %}
-### Add your wallet address
+#### Add your wallet address
 
 Now register a node with your wallet address:
 
@@ -74,7 +74,7 @@ If this is the first time you've done this, the CLI will fetch the latest `ant-n
 {% endstep %}
 
 {% step %}
-### Start your node
+#### Start your node
 
 Run:
 
@@ -90,7 +90,7 @@ ant node start --service-name node1
 {% endstep %}
 
 {% step %}
-### Check that your node is running
+#### Check that your node is running
 
 To see all of your registered nodes and their status, run:
 
@@ -112,7 +112,7 @@ Your nodes will update themselves automatically over time, so you do not need to
 {% endstep %}
 
 {% step %}
-### Add more nodes later if you want to
+#### Add more nodes later if you want to
 
 When you're ready to contribute more storage space, just add more nodes and start them:
 
@@ -129,7 +129,7 @@ ant node add --rewards-address 0xYourWalletAddress --count 2 --node-port 12000-1
 {% endstep %}
 
 {% step %}
-### Stop your nodes
+#### Stop your nodes
 
 To stop all of your running nodes, run:
 
@@ -145,7 +145,7 @@ ant node stop --service-name node1
 {% endstep %}
 
 {% step %}
-### Reset everything if you need a clean start
+#### Reset everything if you need a clean start
 
 First stop your nodes:
 
@@ -165,7 +165,7 @@ This removes your node data, logs, and local node registry, so only use it if yo
 {% endstep %}
 
 {% step %}
-### Congratulations
+#### Congratulations
 
 You are up and running, and contributing to the Autonomi Network from the Command Line.
 {% endstep %}
@@ -173,8 +173,8 @@ You are up and running, and contributing to the Autonomi Network from the Comman
 
 ## Notes
 
-- If you install `ant` using the commands above, you should not need to enter bootstrap peers manually for normal live-network use.
-- When you add nodes, the CLI will show you where each node's data and logs are being stored.
+* If you install `ant` using the commands above, you should not need to enter bootstrap peers manually for normal live-network use.
+* When you add nodes, the CLI will show you where each node's data and logs are being stored.
 
 ## Other useful commands
 
@@ -201,10 +201,10 @@ ant update
 
 When adding nodes, there are a few extra options you may find useful:
 
-- `--metrics-port` to set metrics ports
-- `--network-id` to target a specific network
-- `--bootstrap` to provide bootstrap peers manually
-- `--env` to pass environment variables to the node
+* `--metrics-port` to set metrics ports
+* `--network-id` to target a specific network
+* `--bootstrap` to provide bootstrap peers manually
+* `--env` to pass environment variables to the node
 
 For a fuller list of commands and options, run:
 

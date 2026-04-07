@@ -13,38 +13,38 @@ metaLinks:
 [my-nodes-arent-earning-anything.md](my-nodes-arent-earning-anything.md)
 {% endcontent-ref %}
 
-{% content-ref url="node-launchpad-blocked-as-a-virus.md" %}
-[node-launchpad-blocked-as-a-virus.md](node-launchpad-blocked-as-a-virus.md)
+{% content-ref url="/broken/pages/86ToZcwoUZd82cHDdIuW" %}
+[Broken link](/broken/pages/86ToZcwoUZd82cHDdIuW)
 {% endcontent-ref %}
 
-{% content-ref url="maximum-amount-of-retries-5-windows.md" %}
-[maximum-amount-of-retries-5-windows.md](maximum-amount-of-retries-5-windows.md)
+{% content-ref url="/broken/pages/0dr4OhYahbVWPCwsmB4c" %}
+[Broken link](/broken/pages/0dr4OhYahbVWPCwsmB4c)
 {% endcontent-ref %}
 
-{% content-ref url="maximum-amount-of-retries-5-linux.md" %}
-[maximum-amount-of-retries-5-linux.md](maximum-amount-of-retries-5-linux.md)
+{% content-ref url="/broken/pages/Fhd0CDyhq51rCUzo9TLQ" %}
+[Broken link](/broken/pages/Fhd0CDyhq51rCUzo9TLQ)
 {% endcontent-ref %}
 
-{% content-ref url="launchpad-crashes-right-away-windows.md" %}
-[launchpad-crashes-right-away-windows.md](launchpad-crashes-right-away-windows.md)
+{% content-ref url="/broken/pages/pYZ66LYrgF12I36iZKD0" %}
+[Broken link](/broken/pages/pYZ66LYrgF12I36iZKD0)
 {% endcontent-ref %}
 
-{% content-ref url="launchpad-crashes-right-away-linux.md" %}
-[launchpad-crashes-right-away-linux.md](launchpad-crashes-right-away-linux.md)
+{% content-ref url="/broken/pages/vDxkThJ5kNY8yYCu4Y4Y" %}
+[Broken link](/broken/pages/vDxkThJ5kNY8yYCu4Y4Y)
 {% endcontent-ref %}
 
-{% content-ref url="im-getting-a-vcruntime140.dll-error.md" %}
-[im-getting-a-vcruntime140.dll-error.md](im-getting-a-vcruntime140.dll-error.md)
+{% content-ref url="/broken/pages/Mi6EqPccMhWTF9dc8TU7" %}
+[Broken link](/broken/pages/Mi6EqPccMhWTF9dc8TU7)
 {% endcontent-ref %}
 
-{% content-ref url="the-number-of-services-to-add-does-not-match-the-number-of-ports.md" %}
-[the-number-of-services-to-add-does-not-match-the-number-of-ports.md](the-number-of-services-to-add-does-not-match-the-number-of-ports.md)
+{% content-ref url="/broken/pages/D4bSyodfGC63a4jDC8H3" %}
+[Broken link](/broken/pages/D4bSyodfGC63a4jDC8H3)
 {% endcontent-ref %}
 
-{% content-ref url="node-launchpad-not-opened-on-macos.md" %}
-[node-launchpad-not-opened-on-macos.md](node-launchpad-not-opened-on-macos.md)
+{% content-ref url="/broken/pages/M8SdrZmbBKU7hTSiltHH" %}
+[Broken link](/broken/pages/M8SdrZmbBKU7hTSiltHH)
 {% endcontent-ref %}
 
-{% content-ref url="launchpad-showing-0-upload-rate.md" %}
-[launchpad-showing-0-upload-rate.md](launchpad-showing-0-upload-rate.md)
+{% content-ref url="/broken/pages/218vTU67o8HUSxv9QJgz" %}
+[Broken link](/broken/pages/218vTU67o8HUSxv9QJgz)
 {% endcontent-ref %}

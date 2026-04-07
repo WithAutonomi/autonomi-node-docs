@@ -28,7 +28,7 @@ By running a node you'll be rewarded with Autonomi tokens. The number of tokens 
 
 <summary>What sort of computer do I need?</summary>
 
-Autonomi nodes are designed to work on everyday home devices. So even relatively modest-performance computers will happily run a node, or even many nodes at once.&#x20;
+Autonomi nodes are designed to work on everyday home devices. So even relatively modest-performance computers will happily run a node, or even many nodes at once.
 
 Each node uses some storage space, as well as some CPU, memory, and of course Internet bandwidth. Our easy-to-use [Node Launchpad](../downloads.md) software is compatible with Windows, Mac and Linux.
 
@@ -53,22 +53,6 @@ A typical home PC will be able to run several nodes at once, and you can start n
 An Atto is a fraction of a whole token. One quintillionth in fact. It's the increments that node's are paid in by the Network.
 
 Strictly speaking they are just fractions of a full token—18 decimal places—so sometimes the terms are used interchangeably.
-
-</details>
-
-<details>
-
-<summary>Can I store my data on the Network?</summary>
-
-**Yes**, you can use your the Autonomi tokens earned to upload your own private data to the Network and to try it out. We'll be releasing tools and apps over the coming weeks to make that easy, and demonstrate what the network can do, and what you can build.&#x20;
-
-</details>
-
-<details>
-
-<summary>Do I have to use the Node Launchpad? Are there tools for advanced users?</summary>
-
-**No you don't need to use the launchpad.** If you are more comfortable using the Command Line, take a look at [Use the Node CLI](../guides/how-to-guides/use-the-node-cli.md).
 
 </details>
 

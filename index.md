@@ -13,7 +13,7 @@ Starting a node (or even several) is easy, and will work on home computers just 
 
 {% stepper %}
 {% step %}
-### **Download the Node Launchpad**&#x20;
+### **Download the Autonomi App**&#x20;
 
 [Windows](https://downloads.autonomi.com/launchpad/windows) (Windows 10+)
 

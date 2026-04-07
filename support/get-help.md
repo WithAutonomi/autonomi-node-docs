@@ -38,5 +38,5 @@ When requesting support, or reporting an issue, you'll get a quicker and more ac
 * **Software version** of the Launchpad or Node&#x20;
 * And **be as specific as you can** about what is happening, and when it occurs
 
-Plus: screen grabs, and node [log files](../guides/how-to-guides/access-the-logs.md) (if you are asked for them) are very helpful too.
+Plus: screen grabs, and node [log files](/broken/pages/TAhX9Kg7SQlSCy2pqo6U) (if you are asked for them) are very helpful too.
 {% endhint %}
