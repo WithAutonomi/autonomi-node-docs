@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Start a Node](README.md)
+* [Start a Node](index.md)
 * [Quickstart Guide](quickstart-guide/README.md)
   * [For Windows Users](quickstart-guide/for-windows-users.md)
   * [For Mac Users](quickstart-guide/for-mac-users.md)
