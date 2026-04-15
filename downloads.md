@@ -8,7 +8,7 @@ metaLinks:
 
 The easiest way to contribute your spare capacity to the Autonomi Network is with the Autonomi App. It’s an application that allow you to start nodes on your computer that run in the background while you get on with other things.
 
-### Download the Autonomi App:
+### Download the Autonomi App: <mark style="color:$danger;">**Comming Soon!**</mark>
 
 [Windows](https://downloads.autonomi.com/autonomi-app/windows) (Windows 10+ recommended)
 
