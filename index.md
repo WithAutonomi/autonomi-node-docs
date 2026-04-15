@@ -13,7 +13,7 @@ Starting a node (or even several) is easy, and will work on home computers just 
 
 {% stepper %}
 {% step %}
-### **Download the Autonomi App** <mark style="color:$danger;">**Comming Soon!**</mark>
+### **Download the Autonomi App** <mark style="color:$danger;">**Coming Soon!**</mark>
 
 [Windows](https://downloads.autonomi.com/autonomi-app/windows) (Windows 10+)
 
