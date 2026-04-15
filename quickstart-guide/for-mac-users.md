@@ -9,7 +9,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-### Download the Autonomi App
+### Download the Autonomi App <mark style="color:$danger;">**Coming Soon!**</mark>
 
 [Mac](https://downloads.autonomi.com/autonomi-app/mac) (Apple Silicon)
 {% endstep %}
