@@ -15,11 +15,11 @@ Starting a node (or even several) is easy, and will work on home computers just 
 {% step %}
 ### **Download & Install the Autonomi App**
 
-[Windows](https://downloads.autonomi.com/autonomi-app/windows) (Windows 10+)
+Windows (Windows 10+) _**Coming Soon**_
 
-[Mac](https://downloads.autonomi.com/autonomi-app/mac) (Apple Silicon)
+Mac (Apple Silicon) _**Coming Soon**_
 
-[Linux x86-64](https://downloads.autonomi.com/autonomi-app/linux) (Ubuntu 24.04+ recommended)
+Linux x86-64 (Ubuntu 24.04+ recommended) _**Coming Soon**_
 
 {% hint style="info" %}
 This app is in **Beta**, so expect regular updates as well as some niggles. _Need help? Ask our friendly_ [_Discord community._](https://discord.gg/autonomi)
