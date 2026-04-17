@@ -2,8 +2,8 @@
 
 * [Start a Node](index.md)
 * [Quickstart Guide](quickstart-guide/README.md)
-  * [For Windows Users](quickstart-guide/for-windows-users.md)
-  * [Copy of For Windows Users](quickstart-guide/for-windows-users-1.md)
+  * [For Windows Users OLD](quickstart-guide/for-windows-users.md)
+  * [For Windows Users](quickstart-guide/for-windows-users-1.md)
   * [For Mac Users](quickstart-guide/for-mac-users.md)
   * [For Linux Users](quickstart-guide/for-linux-users.md)
 * [System Requirements](system-requirements.md)

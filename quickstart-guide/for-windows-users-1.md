@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# Copy of For Windows Users
+# For Windows Users
 
 Download the Autonomi App
 
