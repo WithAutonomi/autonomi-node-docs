@@ -2,6 +2,7 @@
 description: >-
   Sometimes software runs into hiccups and needs to be run as an Administrator
   to work properly on Windows. Here is how to do that.
+hidden: true
 metaLinks:
   alternates:
     - >-

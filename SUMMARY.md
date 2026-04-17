@@ -12,7 +12,6 @@
 ## Guides
 
 * [How To Guides](guides/how-to-guides/README.md)
-  * [How to Join the Live Network](guides/how-to-guides/how-to-join-the-live-network.md)
   * [Use the Node CLI](guides/how-to-guides/use-the-node-cli.md)
   * [Reset Your Nodes](guides/how-to-guides/reset-your-nodes.md)
   * [View your Autonomi tokens with the Block Explorer](guides/how-to-guides/view-your-autonomi-tokens-with-the-block-explorer.md)
