@@ -4,12 +4,10 @@ hidden: true
 
 # Copy of For Windows Users
 
-
+Download the Autonomi App
 
 {% stepper %}
 {% step %}
-Download the Autonomi App
-
 [Windows](https://downloads.autonomi.com/autonomi-app/windows) (Windows 10+)
 {% endstep %}
 
@@ -44,27 +42,27 @@ Click **Finish**
 {% endstep %}
 
 {% step %}
-The app will now open. To start please select **Connect Wallet** for your web3/crypto wallet. We recommend you use MetaMask but there are other options such as TrustWallet among others.  It also supports hardware wallets such as Ledger and Trezor.&#x20;
+The app will now open. Before we spin nodes up you will want to set your payout wallet so you can earn! On the far left side of the app click **Wallet**. You can click edit and paste your ETH/EVM address directly then click **Save** OR click **Connect Wallet** to link with MetaMask, TrustWallet, Ledger, Trezor etc etc. We recommend you use MetaMask for your wallet choice. You will have to choose the Connect Wallet option if you wish to use the application to upload/download data.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-You’ll be prompted to accept the [Terms & Conditions](../support/terms-and-conditions.md). Have a read, and if you are happy to continue **Press Y**.
+On the far left side of the application click **Nodes** then select **+Add Nodes**
+
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Paste in your** [**Wallet**](../system-requirements.md#compatible-wallets) **Address**, and then **Press Enter**.&#x20;
+Now select **Add 1 Node**
 
-{% include "../.gitbook/includes/any-ethereum-address-can-be....md" %}
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Now **Press S** to go back to the Status Screen.
-{% endstep %}
+You will now see Node1 pop up. If you selected too add multiple nodes in the last step you would see Node2 etc etc as well. Click **Node1** and a popup will show up below. Now click **Start**
 
-{% step %}
-Then **Press Ctrl + G** to start some nodes.
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
