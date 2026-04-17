@@ -39,7 +39,7 @@ If you have and Autonomi tokens at this address Autonomi ($AUTONOMI) will show i
 
 You'll also be able to see the current Autonomi token balance of your wallet
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
