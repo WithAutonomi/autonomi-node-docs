@@ -1,4 +1,5 @@
 ---
+hidden: true
 metaLinks:
   alternates:
     - >-
@@ -9,7 +10,7 @@ metaLinks:
 
 {% stepper %}
 {% step %}
-### Download the Autonomi App <mark style="color:$danger;">**Coming Soon!**</mark>
+### Download the Autonomi App
 
 [Linux x86-64](https://downloads.autonomi.com/autonomi-app/linux) (Ubuntu 24.04+ recommended)
 {% endstep %}

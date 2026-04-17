@@ -1,4 +1,5 @@
 ---
+hidden: true
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/mHMagc6BlRPNTxTKcyjL/quickstart-guide
