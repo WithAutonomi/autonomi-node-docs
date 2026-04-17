@@ -66,20 +66,6 @@ You will now see Node1 pop up. If you selected too add multiple nodes in the las
 {% endstep %}
 
 {% step %}
-Press the **up and down arrows** to choose the number of nodes you want to start, then **Press Enter to start them**.\
-\
-&#xNAN;_&#x57;e’d recommend you start just one or two to begin. Each will use 35GB of storage space, some memory, CPU, and some of your internet connection. Then add more as your resources allow._
-{% endstep %}
-
-{% step %}
-You’ll see the node(s) you’ve started appear in a list. They may take a few moments to start, but when they do they’ll turn green. They will be gathering data, then serving it to the Network. If you’ve added several nodes, you can **scroll the list with the up and down arrow keys**.
-{% endstep %}
-
-{% step %}
-You’ll see the amount of storage space allocated, and the amount of tokens, or [attos](../support/faqs.md#what-is-an-atto), they have earned in the Device Status panel.
-{% endstep %}
-
-{% step %}
 **Congratulations!** You are up and running, and contributing to the Autonomi Network.
 {% endstep %}
 {% endstepper %}
